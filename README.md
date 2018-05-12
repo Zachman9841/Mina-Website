@@ -1,2 +1,2 @@
-# Website-Tests
-This is a repository for my test websites! 
+# Mina-Website
+This is a repository for the Mina website! 
